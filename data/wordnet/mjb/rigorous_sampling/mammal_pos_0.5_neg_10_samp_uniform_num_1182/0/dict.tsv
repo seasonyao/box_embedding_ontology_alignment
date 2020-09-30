@@ -1,0 +1,1183 @@
+id	nltk_name	lex_filenum	offset	lemmas
+0	harvest_mouse.n.02	5	2332447		Micromyx_minutus	harvest_mouse
+1	dasyurid_marsupial.n.01	5	1883513		dasyurid	dasyurid_marsupial
+2	mexican_pocket_mouse.n.01	5	2349847		Mexican_pocket_mouse	Liomys_irroratus
+3	raccoon_dog.n.01	5	2116450		raccoon_dog	Nyctereutes_procyonides
+4	dinoceras.n.01	5	2372140		uintathere	dinoceras
+5	river_otter.n.01	5	2445004		Lutra_canadensis	river_otter
+6	cavalry_horse.n.01	5	2378541		cavalry_horse
+7	eurasian_otter.n.01	5	2445171		Eurasian_otter	Lutra_lutra
+8	brush-tailed_porcupine.n.01	5	2347274		brush-tailed_porcupine	brush-tail_porcupine
+9	kid.n.05	5	2416820		kid
+10	sassaby.n.01	5	2422391		sassaby	topi	Damaliscus_lunatus
+11	nilgai.n.01	5	2425532		Boselaphus_tragocamelus	blue_bull	nylghau	nylghai	nilgai
+12	homo_erectus.n.01	5	2473307		Homo_erectus
+13	citation.n.06	5	2384326		Citation
+14	pacific_walrus.n.01	5	2081927		Pacific_walrus	Odobenus_divergens
+15	cuscus.n.01	5	1881564		cuscus
+16	agouti.n.01	5	2366002		Dasyprocta_aguti	agouti
+17	bloodhound.n.01	5	2088466		bloodhound	sleuthhound
+18	saddle_horse.n.01	5	2377703		saddle_horse	riding_horse	mount
+19	beaver.n.07	5	2363005		beaver
+20	two-year-old_horse.n.01	5	2385348		two_year_old	two-year-old_horse
+21	snow_leopard.n.01	5	2128757		ounce	Panthera_uncia	snow_leopard
+22	northern_bog_lemming.n.01	5	2346170		Synaptomys_borealis	northern_bog_lemming
+23	steeplechaser.n.01	5	2384741		steeplechaser
+24	sporting_dog.n.01	5	2098550		sporting_dog	gun_dog
+25	walker_hound.n.01	5	2089867		Walker_hound	Walker_foxhound
+26	atlantic_walrus.n.01	5	2081798		Odobenus_rosmarus	Atlantic_walrus
+27	musk_deer.n.01	5	2435216		Moschus_moschiferus	musk_deer
+28	common_wallaby.n.01	5	1878061		Macropus_agiles	common_wallaby
+29	sambar.n.01	5	2431628		Cervus_unicolor	sambar	sambur
+30	pacific_bottlenose_dolphin.n.01	5	2070174		Pacific_bottlenose_dolphin	Tursiops_gilli
+31	american_staffordshire_terrier.n.01	5	2093428		American_pit_bull_terrier	American_Staffordshire_terrier	pit_bull_terrier	Staffordshire_terrier
+32	red_deer.n.01	5	2431122		elk	wapiti	red_deer	Cervus_elaphus	American_elk
+33	lesser_kudu.n.01	5	2424589		lesser_kudu	Tragelaphus_imberbis
+34	wild_horse.n.01	5	2381460		wild_horse
+35	jackal.n.01	5	2115096		Canis_aureus	jackal
+36	clydesdale.n.01	5	2386968		Clydesdale
+37	killer_whale.n.01	5	2071294		killer	killer_whale	sea_wolf	orca	Orcinus_orca	grampus
+38	yak.n.02	5	2405302		Bos_grunniens	yak
+39	dormouse.n.01	5	2352591		dormouse
+40	woolly_rhinoceros.n.01	5	2392555		woolly_rhinoceros	Rhinoceros_antiquitatis
+41	zoril.n.01	5	2444384		zoril	Ictonyx_frenata
+42	civet.n.01	5	2135220		civet	civet_cat
+43	goat_antelope.n.01	5	2418064		goat_antelope
+44	hunting_dog.n.01	5	2087122		hunting_dog
+45	bullock.n.02	5	2403231		bullock	steer
+46	chipmunk.n.01	5	2360282		chipmunk
+47	homo_sapiens.n.01	5	2474777		Homo_sapiens
+48	kitty.n.04	5	2122298		kitty	puss	kitty-cat	pussycat	pussy
+49	american_bison.n.01	5	2410702		Bison_bison	buffalo	American_buffalo	American_bison
+50	hart.n.03	5	2431337		hart	stag
+51	pichiciago.n.01	5	2456275		Chlamyphorus_truncatus	pichiciego	pichiciago	chlamyphore	fairy_armadillo
+52	harrier.n.02	5	2090129		harrier
+53	elk.n.01	5	2432983		elk	European_elk	moose	Alces_alces
+54	american_harvest_mouse.n.01	5	2336275		harvest_mouse	American_harvest_mouse
+55	mesohippus.n.01	5	2376135		mesohippus
+56	stone_marten.n.01	5	2450677		beech_marten	stone_marten	Martes_foina
+57	water_dog.n.02	5	2098906		water_dog
+58	panther.n.02	5	2128669		panther
+59	liver-spotted_dalmatian.n.01	5	2110532		liver-spotted_dalmatian
+60	feline.n.01	5	2120997		feline	felid
+61	rat_terrier.n.01	5	2094562		rat_terrier	ratter
+62	greater_kudu.n.01	5	2424486		greater_kudu	Tragelaphus_strepsiceros
+63	kangaroo_rat.n.01	5	2350105		kangaroo_rat	Dipodomys_phillipsii	desert_rat
+64	dingo.n.01	5	2115641		dingo	warrigal	warragal	Canis_dingo
+65	welsh.n.03	5	2405577		Welsh_Black	Welsh
+66	doberman.n.01	5	2107142		Doberman_pinscher	Doberman
+67	pere_david's_deer.n.01	5	2435517		pere_david's_deer	elaphure	Elaphurus_davidianus
+68	japanese_spaniel.n.01	5	2085782		Japanese_spaniel
+69	cheviot.n.01	5	2413917		Cheviot
+70	nonstarter.n.02	5	2385776		nonstarter
+71	leopardess.n.01	5	2128598		leopardess
+72	tennessee_walker.n.01	5	2379430		Walking_horse	Tennessee_walker	Plantation_walking_horse	Tennessee_walking_horse
+73	eastern_cottontail.n.01	5	2325722		eastern_cottontail	Sylvilagus_floridanus
+74	black_fox.n.01	5	2119247		black_fox
+75	carnivore.n.01	5	2075296		carnivore
+76	placental.n.01	5	1886756		eutherian_mammal	placental	placental_mammal	eutherian
+77	big_brown_bat.n.01	5	2147173		big_brown_bat	Eptesicus_fuscus
+78	setter.n.02	5	2100399		setter
+79	lincoln.n.03	5	2413717		Lincoln
+80	miniature_poodle.n.01	5	2113712		miniature_poodle
+81	bengal_tiger.n.01	5	2129837		Bengal_tiger
+82	old_world_monkey.n.01	5	2484473		catarrhine	Old_World_monkey
+83	kangaroo_mouse.n.02	5	2334728		kangaroo_mouse
+84	angora.n.04	5	2123478		Angora_cat	Angora
+85	whirlaway.n.01	5	2384017		Whirlaway
+86	koala.n.01	5	1882714		kangaroo_bear	koala_bear	native_bear	Phascolarctos_cinereus	koala
+87	lioness.n.01	5	2129463		lioness
+88	seattle_slew.n.01	5	2384533		Seattle_Slew
+89	wolverine.n.03	5	2449183		Gulo_luscus	wolverine	skunk_bear	carcajou
+90	hooded_skunk.n.01	5	2446352		Mephitis_macroura	hooded_skunk
+91	beaked_whale.n.01	5	2068206		beaked_whale
+92	bandicoot.n.01	5	1876326		bandicoot
+93	briard.n.01	5	2105251		briard
+94	baleen_whale.n.01	5	2063224		whalebone_whale	baleen_whale
+95	grade.n.09	5	2406952		grade
+96	domestic_llama.n.01	5	2437971		Lama_peruana	domestic_llama
+97	cotton_rat.n.01	5	2338722		Sigmodon_hispidus	cotton_rat
+98	water_vole.n.01	5	2341974		Arvicola_amphibius	water_vole	water_rat
+99	tatouay.n.01	5	2455428		tatouay	cabassous	Cabassous_unicinctus
+100	black-and-tan_coonhound.n.01	5	2089078		black-and-tan_coonhound
+101	brown_hyena.n.01	5	2117646		strand_wolf	Hyaena_brunnea	brown_hyena
+102	malayan_tapir.n.01	5	2393940		Malayan_tapir	Tapirus_indicus	Indian_tapir
+103	musk_kangaroo.n.01	5	1879837		Hypsiprymnodon_moschatus	musk_kangaroo
+104	pika.n.01	5	2328429		cony	mouse_hare	pika	rock_rabbit	coney
+105	black_rat.n.01	5	2333909		roof_rat	Rattus_rattus	black_rat
+106	bouvier_des_flandres.n.01	5	2106382		Bouviers_des_Flandres	Bouvier_des_Flandres
+107	otter.n.02	5	2444819		otter
+108	pomeranian.n.01	5	2112018		Pomeranian
+109	mountain_sheep.n.01	5	2415435		mountain_sheep
+110	german_short-haired_pointer.n.01	5	2100236		German_short-haired_pointer
+111	white_rhinoceros.n.01	5	2392824		white_rhinoceros	Diceros_simus	Ceratotherium_simum
+112	three-toed_sloth.n.01	5	2457408		Bradypus_tridactylus	ai	three-toed_sloth
+113	vizsla.n.01	5	2100583		vizsla	Hungarian_pointer
+114	sable_antelope.n.01	5	2425887		sable_antelope	Hippotragus_niger
+115	yellowbelly_marmot.n.01	5	2361850		yellowbelly_marmot	Marmota_flaviventris	rockchuck
+116	gomphothere.n.01	5	2506783		gomphothere
+117	mustang.n.01	5	2380583		mustang
+118	mediterranean_water_shrew.n.01	5	1893164		Neomys_anomalus	Mediterranean_water_shrew
+119	przewalski's_horse.n.01	5	2381831		Przewalski's_horse	Equus_caballus_przewalskii	Equus_caballus_przevalskii	Przevalski's_horse
+120	armadillo.n.01	5	2454379		armadillo
+121	pinniped_mammal.n.01	5	2075927		pinniped	pinnatiped	pinniped_mammal
+122	finback.n.01	5	2065026		Balaenoptera_physalus	finback	finback_whale	common_rorqual	fin_whale
+123	red_fox.n.02	5	2119477		Vulpes_fulva	red_fox
+124	dark_horse.n.02	5	2385580		dark_horse
+125	red_fox.n.03	5	2119022		Vulpes_vulpes	red_fox
+126	opossum_rat.n.01	5	1876034		opossum_rat
+127	standard_poodle.n.01	5	2113799		standard_poodle
+128	pony.n.02	5	2385098		pony
+129	pangolin.n.01	5	2461830		scaly_anteater	pangolin	anteater
+130	aquatic_mammal.n.01	5	2062017		aquatic_mammal
+131	hyrax.n.01	5	2372584		cony	das	coney	hyrax	dassie
+132	bandicoot_rat.n.01	5	2334201		mole_rat	bandicoot_rat
+133	jerboa_kangaroo.n.01	5	1880813		kangaroo_jerboa	jerboa_kangaroo
+134	horseshoe_bat.n.01	5	2143891		horseshoe_bat
+135	field_spaniel.n.01	5	2101670		field_spaniel
+136	coati.n.01	5	2509515		coati	coon_cat	Nasua_narica	coati-mondi	coati-mundi
+137	american_flying_squirrel.n.01	5	2360781		American_flying_squirrel
+138	sennenhunde.n.01	5	2107420		Sennenhunde
+139	dugong.n.01	5	2074367		dugong	Dugong_dugon
+140	racehorse.n.01	5	2382948		race_horse	racehorse	bangtail
+141	forest_goat.n.01	5	2428842		spindle_horn	forest_goat	Pseudoryx_nghetinhensis
+142	shire.n.02	5	2387346		shire	shire_horse
+143	bighorn.n.02	5	2415577		Rocky_Mountain_bighorn	bighorn	cimarron	Rocky_Mountain_sheep	bighorn_sheep	Ovis_canadensis
+144	vaquita.n.01	5	2070776		vaquita	Phocoena_sinus
+145	charger.n.01	5	2378625		courser	charger
+146	jennet.n.01	5	2390015		jenny_ass	jenny	jennet
+147	retriever.n.01	5	2099029		retriever
+148	pachyderm.n.01	5	2453108		pachyderm
+149	gelding.n.01	5	2377388		gelding
+150	wood_mouse.n.01	5	2336641		wood_mouse
+151	plains_pocket_mouse.n.01	5	2349390		plains_pocket_mouse	Perognathus_flavescens
+152	dasyure.n.01	5	1883920		dasyure
+153	stud.n.04	5	2377291		stud	studhorse
+154	pademelon.n.01	5	1879217		pademelon	paddymelon
+155	eastern_dasyure.n.01	5	1884104		eastern_dasyure	Dasyurus_quoll
+156	pine_marten.n.01	5	2450295		pine_marten	Martes_martes
+157	groundhog.n.01	5	2361587		woodchuck	Marmota_monax	groundhog
+158	wild_ass.n.01	5	2390454		wild_ass
+159	african_wild_ass.n.01	5	2390640		Equus_asinus	African_wild_ass
+160	ayrshire.n.01	5	2406432		Ayrshire
+161	java_man.n.01	5	2473720		Trinil_man	Java_man
+162	american_water_spaniel.n.01	5	2102806		American_water_spaniel
+163	otterhound.n.01	5	2091635		otterhound	otter_hound
+164	snowshoe_hare.n.01	5	2327842		snowshoe_rabbit	Lepus_americanus	varying_hare	snowshoe_hare
+165	old_world_porcupine.n.01	5	2346998		Old_World_porcupine
+166	humpback.n.03	5	2065726		humpback	humpback_whale	Megaptera_novaeangliae
+167	deer.n.01	5	2430045		cervid	deer
+168	boxer.n.04	5	2108089		boxer
+169	dryopithecine.n.01	5	2478077		dryopithecine
+170	gaur.n.01	5	2410011		gaur	Bibos_gaurus
+171	vole.n.01	5	2339376		vole	field_mouse
+172	leporid.n.01	5	2323902		leporid	leporid_mammal
+173	crab-eating_opossum.n.01	5	1875610		crab-eating_opossum
+174	hedgehog.n.02	5	1893825		Erinaceus_europaeus	Erinaceus_europeaeus	hedgehog
+175	digitigrade_mammal.n.01	5	2507148		digitigrade_mammal	digitigrade
+176	eastern_pipistrel.n.01	5	2148088		eastern_pipistrel	Pipistrellus_subflavus
+177	dairy_cattle.n.01	5	2406174		milch_cow	milker	dairy_cow	milcher	dairy_cattle	milk_cow
+178	tiger_cat.n.02	5	2123159		tiger_cat
+179	homo_habilis.n.01	5	2474605		Homo_habilis
+180	canada_lynx.n.01	5	2127381		Lynx_canadensis	Canada_lynx
+181	new_world_porcupine.n.01	5	2347744		New_World_porcupine
+182	rock_squirrel.n.01	5	2358890		rock_squirrel	Citellus_variegatus
+183	bezoar_goat.n.01	5	2417663		bezoar_goat	Capra_aegagrus	pasang
+184	striped_hyena.n.01	5	2117512		Hyaena_hyaena	striped_hyena
+185	tamarisk_gerbil.n.01	5	2344270		tamarisk_gerbil	Meriones_unguiculatus
+186	puppy.n.01	5	1322604		puppy
+187	flying_phalanger.n.01	5	1882125		flying_opossum	flying_squirrel	flying_phalanger
+188	virginia_deer.n.01	5	2432291		white_tail	whitetail	Virginia_deer	Odocoileus_Virginianus	white-tailed_deer	whitetail_deer
+189	guenon.n.01	5	2484975		guenon	guenon_monkey
+190	sea_lion.n.01	5	2077923		sea_lion
+191	zinjanthropus.n.01	5	2477187		genus_Zinjanthropus	Zinjanthropus
+192	saluki.n.01	5	2091831		Saluki	gazelle_hound
+193	tamarau.n.01	5	2409202		tamarao	Bubalus_mindorensis	Anoa_mindorensis	tamarau
+194	griffon.n.03	5	2103181		wire-haired_pointing_griffon	griffon
+195	tayra.n.01	5	2451415		taira	tayra	Eira_barbara
+196	orange_bat.n.01	5	2144251		Rhinonicteris_aurantius	orange_horseshoe_bat	orange_bat
+197	wolf.n.01	5	2114100		wolf
+198	fanaloka.n.01	5	2136794		fanaloka	Fossa_fossa
+199	water_chevrotain.n.01	5	2436645		water_chevrotain	Hyemoschus_aquaticus	water_deer
+200	irish_setter.n.01	5	2100877		Irish_setter	red_setter
+201	western_pipistrel.n.01	5	2148245		SPipistrellus_hesperus	western_pipistrel
+202	baronduki.n.01	5	2360480		Eutamius_asiaticus	Eutamius_sibiricus	baronduki	barunduki	baranduki	burunduki
+203	asiatic_flying_squirrel.n.01	5	2362194		Asiatic_flying_squirrel
+204	bovid.n.01	5	2401031		bovid
+205	entellus.n.01	5	2488415		Presbytes_entellus	Semnopithecus_entellus	entellus	hanuman
+206	tenrec.n.01	5	1894207		tendrac	tenrec
+207	pollard.n.02	5	1319339		pollard
+208	lagomorph.n.01	5	2323449		gnawing_mammal	lagomorph
+209	yellow-throated_marten.n.01	5	2451125		Charronia_flavigula	yellow-throated_marten
+210	longtail_weasel.n.01	5	2442668		longtail_weasel	long-tailed_weasel	Mustela_frenata
+211	farm_horse.n.01	5	2387254		farm_horse	dobbin
+212	aurochs.n.02	5	2405101		aurochs	urus	Bos_primigenius
+213	tree_shrew.n.01	5	2495242		tree_shrew
+214	western_chimpanzee.n.01	5	2482060		Pan_troglodytes_verus	western_chimpanzee
+215	binturong.n.01	5	2136103		binturong	bearcat	Arctictis_bintourong
+216	gerbil.n.01	5	2343772		gerbille	gerbil
+217	black_squirrel.n.01	5	2356977		black_squirrel
+218	german_shepherd.n.01	5	2106662		German_police_dog	German_shepherd_dog	alsatian	German_shepherd
+219	spotted_lynx.n.01	5	2127586		spotted_lynx	Lynx_pardina
+220	rhodesian_man.n.01	18	10528148		Homo_rhodesiensis	Rhodesian_man
+221	chihuahua.n.03	5	2085620		Chihuahua
+222	narwhal.n.01	5	2072493		narwhal	narwal	Monodon_monoceros	narwhale
+223	devon.n.02	5	2406859		Devon
+224	old_world_least_weasel.n.01	5	2442572		Old_World_least_weasel	Mustela_nivalis
+225	golden_hamster.n.01	5	2343320		Mesocricetus_auratus	Syrian_hamster	golden_hamster
+226	beaver_rat.n.01	5	2335231		beaver_rat
+227	afghan_hound.n.01	5	2088094		Afghan_hound	Afghan
+228	common_zebra.n.01	5	2391234		Burchell's_zebra	Equus_Burchelli	common_zebra
+229	jumping_mouse.n.01	5	2350989		jumping_mouse
+230	cetacean.n.01	5	2062430		cetacean	cetacean_mammal	blower
+231	pembroke.n.01	5	2113023		Pembroke_Welsh_corgi	Pembroke
+232	blacktail_prairie_dog.n.01	5	2359556		blacktail_prairie_dog	Cynomys_ludovicianus
+233	giant_armadillo.n.01	5	2456008		giant_armadillo	tatou	tatu	Priodontes_giganteus
+234	galago.n.01	5	2499808		bush_baby	galago	bushbaby
+235	rhinoceros.n.01	5	2391994		rhino	rhinoceros
+236	bearded_seal.n.01	5	2080713		bearded_seal	squareflipper_square_flipper	Erignathus_barbatus
+237	roebuck.n.01	5	2433729		roebuck
+238	collie.n.01	5	2106030		collie
+239	new_world_least_weasel.n.01	5	2442446		Mustela_rixosa	New_World_least_weasel
+240	phyllostomus_hastatus.n.01	5	2142898		Phyllostomus_hastatus
+241	hearing_dog.n.01	5	2109391		hearing_dog
+242	pricket.n.02	5	2430748		pricket
+243	redbone.n.01	5	2090379		redbone
+244	norfolk_terrier.n.01	5	2094114		Norfolk_terrier
+245	cinnamon_bear.n.01	5	2133400		cinnamon_bear
+246	gopher.n.04	5	2353861		pocket_gopher	gopher	pouched_rat
+247	pocketed_bat.n.01	5	2149861		Tadirida_femorosacca	pocketed_freetail_bat	pocketed_bat
+248	dandie_dinmont.n.01	5	2096437		Dandie_Dinmont_terrier	Dandie_Dinmont
+249	sewer_rat.n.01	5	2333819		sewer_rat
+250	viscacha.n.01	5	2368116		viscacha	chinchillon	Lagostomus_maximus
+251	prototherian.n.01	5	1871543		prototherian
+252	asiatic_shrew_mole.n.01	5	1891013		Asiatic_shrew_mole	Uropsilus_soricipes
+253	bat.n.01	5	2139199		chiropteran	bat
+254	sand_rat.n.02	5	2344408		sand_rat	Meriones_longifrons
+255	sea_otter.n.01	5	2445394		Enhydra_lutris	sea_otter
+256	lionet.n.01	5	2129530		lionet
+257	fox_terrier.n.01	5	2095050		fox_terrier
+258	cynocephalus_variegatus.n.01	5	2502807		Cynocephalus_variegatus
+259	shetland_pony.n.01	5	2382635		Shetland_pony
+260	palm_cat.n.01	5	2138169		palm_cat	palm_civet
+261	police_dog.n.01	5	2106854		police_dog
+262	pekinese.n.01	5	2086079		Peke	Pekinese	Pekingese
+263	shepherd_dog.n.01	5	2104523		shepherd_dog	sheep_dog	sheepdog
+264	numbat.n.01	5	1885498		numbat	banded_anteater	anteater	Myrmecobius_fasciatus
+265	arabian_camel.n.01	5	2437312		Arabian_camel	dromedary	Camelus_dromedarius
+266	ox.n.02	5	2402175		wild_ox	ox
+267	sable.n.05	5	2450426		sable	Martes_zibellina
+268	dhole.n.01	5	2115913		dhole	Cuon_alpinus
+269	blue_whale.n.01	5	2064816		blue_whale	sulfur_bottom	Balaenoptera_musculus
+270	welsh_terrier.n.01	5	2095727		Welsh_terrier
+271	toy_poodle.n.01	5	2113624		toy_poodle
+272	saber-toothed_tiger.n.01	5	2130545		saber-toothed_tiger	sabertooth
+273	post_horse.n.01	5	2387722		post-horse	post_horse	poster
+274	water_vole.n.02	5	2341475		Microtus_richardsoni	water_vole	Richardson_vole
+275	bird_dog.n.01	5	2098806		bird_dog
+276	viverrine.n.01	5	2134971		viverrine	viverrine_mammal
+277	cow.n.01	5	2403454		cow	moo-cow
+278	earless_seal.n.01	5	2079389		earless_seal	true_seal	hair_seal
+279	spotted_hyena.n.01	5	2117900		laughing_hyena	Crocuta_crocuta	spotted_hyena
+280	pygmy_marmoset.n.01	5	2490811		pygmy_marmoset	Cebuella_pygmaea
+281	indri.n.01	5	2500267		indris	Indri_indri	Indri_brevicaudatus	indri
+282	two-toed_sloth.n.01	5	2458135		Choloepus_hoffmanni	two-toed_sloth	unau	unai
+283	appenzeller.n.01	5	2107908		Appenzeller
+284	kelpie.n.02	5	2105412		kelpie
+285	lemming.n.01	5	2344528		lemming
+286	large_poodle.n.01	5	2113892		large_poodle
+287	shih-tzu.n.01	5	2086240		Shih-Tzu
+288	great_pyrenees.n.01	5	2111500		Great_Pyrenees
+289	japanese_deer.n.01	5	2431976		Japanese_deer	Cervus_sika	Cervus_nipon	sika
+290	american_water_shrew.n.01	5	1892744		American_water_shrew	Sorex_palustris
+291	pouched_mole.n.01	5	1886045		pouched_mole	marsupial_mole	Notoryctus_typhlops
+292	bushbuck.n.01	5	2425228		guib	bushbuck	Tragelaphus_scriptus
+293	least_shrew.n.01	5	1893399		Cryptotis_parva	least_shrew
+294	tibetan_mastiff.n.01	5	2108551		Tibetan_mastiff
+295	bernese_mountain_dog.n.01	5	2107683		Bernese_mountain_dog
+296	ferret.n.02	5	2443346		ferret
+297	wether.n.01	5	2412210		wether
+298	newfoundland.n.01	5	2111277		Newfoundland	Newfoundland_dog
+299	italian_greyhound.n.01	5	2091032		Italian_greyhound
+300	large_civet.n.01	5	2135610		large_civet	Viverra_zibetha
+301	australopithecine.n.01	5	2476219		australopithecine
+302	gib.n.02	5	2122810		gib
+303	exmoor.n.02	5	2382850		Exmoor
+304	rabbit_ears.n.02	5	2324431		rabbit_ears
+305	bucking_bronco.n.01	5	2380875		bucking_bronco
+306	pygmy_chimpanzee.n.01	5	2482650		Pan_paniscus	bonobo	pygmy_chimpanzee
+307	sea_cow.n.01	5	2073250		sirenian_mammal	sirenian	sea_cow
+308	brood_bitch.n.01	5	2083780		brood_bitch
+309	starnose_mole.n.01	5	1889849		starnose_mole	star-nosed_mole	Condylura_cristata
+310	addax.n.01	5	2421136		Addax_nasomaculatus	addax
+311	mastodon.n.01	5	2505998		mastodont	mastodon
+312	silky_pocket_mouse.n.01	5	2349205		silky_pocket_mouse	Perognathus_flavus
+313	tiger_cub.n.01	5	1323068		tiger_cub
+314	barren_ground_caribou.n.01	5	2434415		barren_ground_caribou	Rangifer_arcticus
+315	silver_fox.n.01	5	2119359		silver_fox
+316	fissiped_mammal.n.01	5	2082190		fissiped_mammal	fissiped
+317	southeastern_pocket_gopher.n.01	5	2354320		Geomys_pinetis	southeastern_pocket_gopher
+318	blackbuck.n.01	5	2420509		black_buck	Antilope_cervicapra	blackbuck
+319	wire-haired_fox_terrier.n.01	5	2095314		wire-haired_fox_terrier
+320	pied_lemming.n.01	5	2345600		pied_lemming
+321	basenji.n.01	5	2110806		basenji
+322	bullock.n.01	5	2403820		bullock
+323	tortoiseshell.n.03	5	2123242		tortoiseshell	calico_cat	tortoiseshell-cat
+324	fissipedia.n.01	5	2082056		Fissipedia
+325	arctic_ground_squirrel.n.01	5	2359047		Arctic_ground_squirrel	parka_squirrel	Citellus_parryi
+326	yorkshire_terrier.n.01	5	2094433		Yorkshire_terrier
+327	pariah_dog.n.01	5	2085118		pariah_dog	pie-dog	pye-dog
+328	mangabey.n.01	5	2485988		mangabey
+329	pentail.n.01	5	2495570		pentail	pen-tailed_tree_shrew	pen-tail
+330	carabao.n.01	5	2408817		carabao
+331	true_marmoset.n.01	5	2490597		true_marmoset
+332	brocket.n.02	5	2431542		brocket
+333	cheetah.n.01	5	2130308		cheetah	chetah	Acinonyx_jubatus
+334	argali.n.01	5	2414763		argali	argal	Ovis_ammon
+335	tamarin.n.01	5	2491107		lion_monkey	leoncita	tamarin	lion_marmoset
+336	lapdog.n.01	5	2085272		lapdog
+337	malamute.n.01	5	2110063		Alaskan_malamute	malamute	malemute
+338	doe.n.02	5	1888411		doe
+339	oryx.n.01	5	2428349		oryx	pasang
+340	charolais.n.01	5	2406647		Charolais
+341	gordon_setter.n.01	5	2101006		Gordon_setter
+342	fur_seal.n.02	5	2077152		fur_seal
+343	guereza.n.01	5	2488894		Colobus_guereza	guereza
+344	antelope.n.01	5	2419796		antelope
+345	wheel_horse.n.01	5	2387581		wheel_horse	wheeler
+346	spotted_skunk.n.01	5	2447021		Spilogale_putorius	little_spotted_skunk	spotted_skunk
+347	foxhound.n.01	5	2089555		foxhound
+348	pacer.n.01	5	2388143		pacemaker	pacer	pacesetter
+349	european_lemming.n.01	5	2344918		Lemmus_lemmus	European_lemming
+350	slender_loris.n.01	5	2498743		slender_loris	Loris_gracilis
+351	angora.n.02	5	2417387		Angora_goat	Angora
+352	howler_monkey.n.01	5	2492660		howler	howler_monkey
+353	coach_horse.n.01	5	2387887		coach_horse
+354	grey_whale.n.01	5	2066245		grey_whale	Eschrichtius_robustus	gray_whale	devilfish	Eschrichtius_gibbosus
+355	mule_deer.n.01	5	2432511		burro_deer	mule_deer	Odocoileus_hemionus
+356	tailless_tenrec.n.01	5	1894522		Tenrec_ecaudatus	tailless_tenrec
+357	ice_bear.n.01	5	2134084		ice_bear	Thalarctos_maritimus	Ursus_Maritimus	polar_bear
+358	banteng.n.01	5	2405440		banteng	tsine	banting	Bos_banteng
+359	cattle.n.01	5	2402425		Bos_taurus	cows	oxen	cattle	kine
+360	new_world_beaver.n.01	5	2363351		Castor_canadensis	New_World_beaver
+361	rottweiler.n.01	5	2106550		Rottweiler
+362	manul.n.01	5	2126787		Felis_manul	manul	Pallas's_cat
+363	terrier.n.01	5	2092468		terrier
+364	male_horse.n.01	5	2376918		male_horse
+365	grasshopper_mouse.n.01	5	2337902		grasshopper_mouse
+366	guanaco.n.01	5	2438173		Lama_guanicoe	guanaco
+367	greyhound.n.01	5	2090827		greyhound
+368	tarsius_syrichta.n.01	5	2501923		Tarsius_syrichta
+369	clydesdale_terrier.n.01	5	2097967		Clydesdale_terrier
+370	rambouillet.n.01	5	2414442		Rambouillet
+371	eurasian_hamster.n.01	5	2343058		Eurasian_hamster	Cricetus_cricetus
+372	monkey.n.01	5	2484322		monkey
+373	toy_dog.n.01	5	2085374		toy_dog	toy
+374	pygmy_sperm_whale.n.01	5	2067603		pygmy_sperm_whale	Kogia_breviceps
+375	domestic_ass.n.01	5	2389559		Equus_asinus	domestic_ass	donkey
+376	coypu.n.01	5	2366959		Myocastor_coypus	coypu	nutria
+377	marten.n.01	5	2450034		marten_cat	marten
+378	lucy.n.01	5	2476736		Lucy
+379	european_wood_mouse.n.01	5	2333190		European_wood_mouse	Apodemus_sylvaticus
+380	merino.n.01	5	2414290		merino	merino_sheep
+381	southern_flying_squirrel.n.01	5	2360933		southern_flying_squirrel	Glaucomys_volans
+382	hack.n.08	5	2378969		hack
+383	manchester_terrier.n.01	5	2094721		Manchester_terrier	black-and-tan_terrier
+384	coydog.n.01	5	2115012		coydog
+385	ocelot.n.01	5	2125494		panther_cat	ocelot	Felis_pardalis
+386	orangutan.n.01	5	2480495		orangutan	Pongo_pygmaeus	orang	orangutang
+387	white_wolf.n.01	5	2114548		white_wolf	Arctic_wolf	Canis_lupus_tundrarum
+388	lion.n.01	5	2129165		lion	king_of_beasts	Panthera_leo
+389	durham.n.02	5	2407071		Durham	shorthorn
+390	tiglon.n.01	5	2130086		tiglon	tigon
+391	potoroo.n.01	5	1880473		potoroo
+392	columbian_mammoth.n.01	5	2505238		columbian_mammoth	Mammuthus_columbi
+393	great_dane.n.01	5	2109047		Great_Dane
+394	cat.n.01	5	2121620		true_cat	cat
+395	mole_rat.n.01	5	2369293		mole_rat
+396	hispid_pocket_mouse.n.01	5	2349557		hispid_pocket_mouse	Perognathus_hispidus
+397	longhorn.n.01	5	2404432		longhorn	Texas_longhorn
+398	coyote.n.01	5	2114855		brush_wolf	coyote	prairie_wolf	Canis_latrans
+399	bull.n.01	5	2403325		bull
+400	tree_squirrel.n.01	5	2355477		tree_squirrel
+401	domestic_sheep.n.01	5	2413131		domestic_sheep	Ovis_aries
+402	european_water_shrew.n.01	5	1893021		Neomys_fodiens	European_water_shrew
+403	stirk.n.01	5	2403153		stirk
+404	big-eared_bat.n.01	5	2144936		Megaderma_lyra	big-eared_bat
+405	border_terrier.n.01	5	2093754		Border_terrier
+406	stepper.n.03	5	2388588		high_stepper	stepper
+407	count_fleet.n.01	5	2384120		Count_Fleet
+408	chigetai.n.01	5	2390938		Equus_hemionus_hemionus	chigetai	dziggetai
+409	proboscis_monkey.n.01	5	2489166		Nasalis_larvatus	proboscis_monkey
+410	vicuna.n.03	5	2438580		Vicugna_vicugna	vicuna
+411	badger.n.02	5	2447366		badger
+412	anthropoid.n.02	5	2470709		anthropoid
+413	carthorse.n.01	5	2386853		cart_horse	drayhorse	carthorse
+414	pocket_rat.n.01	5	2331309		pocket_rat
+415	cave_myotis.n.01	5	2146879		Myotis_velifer	cave_myotis
+416	horse.n.01	5	2374451		horse	Equus_caballus
+417	pouched_mouse.n.01	5	1885158		marsupial_mouse	pouched_mouse	marsupial_rat
+418	green_monkey.n.01	5	2485688		African_green_monkey	Cercopithecus_aethiops_sabaeus	green_monkey
+419	abrocome.n.01	5	2368399		chinchilla_rat	rat_chinchilla	abrocome
+420	irish_water_spaniel.n.01	5	2102973		Irish_water_spaniel
+421	prairie_vole.n.01	5	2341616		prairie_vole	Microtus_ochrogaster
+422	grey_lemming.n.01	5	2345340		grey_lemming	gray_lemming	red-backed_lemming
+423	collared_pika.n.01	5	2328942		Ochotona_collaris	collared_pika
+424	homo_soloensis.n.01	5	2474110		Homo_soloensis
+425	northern_flying_squirrel.n.01	5	2361090		northern_flying_squirrel	Glaucomys_sabrinus
+426	ungulate.n.01	5	2370806		ungulate	hoofed_mammal
+427	eohippus.n.01	5	2375862		eohippus	dawn_horse
+428	harbor_porpoise.n.01	5	2070624		harbor_porpoise	herring_hog	Phocoena_phocoena
+429	rogue_elephant.n.01	5	2503756		rogue_elephant
+430	chiacoan_peccary.n.01	5	2398141		Chiacoan_peccary
+431	silverback.n.01	5	2481500		silverback
+432	sinanthropus.n.01	5	2473983		Sinanthropus	genus_Sinanthropus
+433	ibex.n.01	5	2417914		ibex	Capra_ibex
+434	hog.n.03	5	2395406		Sus_scrofa	pig	squealer	grunter	hog
+435	hairy-legged_vampire_bat.n.01	5	2151230		hairy-legged_vampire_bat	Diphylla_ecaudata
+436	lesser_ape.n.01	5	2483092		lesser_ape
+437	aperea.n.01	5	2364840		Cavia_porcellus	wild_cavy	aperea
+438	remount.n.01	5	2378149		remount
+439	royal.n.02	5	2430643		royal_stag	royal
+440	lechwe.n.01	5	2427576		Kobus_leche	lechwe
+441	wood_rabbit.n.01	5	2325366		wood_rabbit	cottontail_rabbit	cottontail
+442	hare_wallaby.n.01	5	1878335		hare_wallaby	kangaroo_hare
+443	griffon.n.02	5	2112497		Brussels_griffon	griffon	Belgian_griffon
+444	douroucouli.n.01	5	2492356		douroucouli	Aotus_trivirgatus
+445	wallaby.n.01	5	1877812		wallaby	brush_kangaroo
+446	palomino.n.01	5	2389128		palomino
+447	thomson's_gazelle.n.01	5	2423218		Thomson's_gazelle	Gazella_thomsoni
+448	watchdog.n.02	5	2103841		guard_dog	watchdog
+449	jird.n.01	5	2344175		jird
+450	saki.n.03	5	2492948		saki
+451	eastern_lowland_gorilla.n.01	5	2481235		Gorilla_gorilla_grauri	eastern_lowland_gorilla
+452	sir_barton.n.01	5	2383604		Sir_Barton
+453	indian_buffalo.n.01	5	2408660		Indian_buffalo
+454	gayal.n.01	5	2410141		gayal	mithan	Bibos_frontalis
+455	roan.n.02	5	2375302		roan
+456	woodland_caribou.n.01	5	2434190		woodland_caribou	Rangifer_caribou
+457	jersey.n.05	5	2406749		Jersey
+458	pony.n.01	5	2380335		pony
+459	workhorse.n.02	5	2386310		workhorse
+460	australopithecus_africanus.n.01	5	2476870		Australopithecus_africanus
+461	australopithecus_boisei.n.01	5	2477028		Australopithecus_boisei
+462	mylodon.n.01	5	2459485		mylodon
+463	red_wolf.n.01	5	2114712		Canis_rufus	Canis_niger	maned_wolf	red_wolf
+464	west_highland_white_terrier.n.01	5	2098286		West_Highland_white_terrier
+465	prosimian.n.01	5	2496052		prosimian
+466	anthropoid_ape.n.01	5	2470899		anthropoid_ape
+467	barbary_ape.n.01	5	2487847		Barbary_ape	Macaca_sylvana
+468	striped_muishond.n.01	5	2444251		striped_muishond	Ictonyx_striata
+469	antelope_squirrel.n.01	5	2357911		whitetail_antelope_squirrel	Citellus_leucurus	antelope_squirrel	antelope_chipmunk
+470	rat_kangaroo.n.01	5	1880152		kangaroo_rat	rat_kangaroo
+471	rock_wallaby.n.01	5	1878929		rock_wallaby	rock_kangaroo
+472	jungle_cat.n.01	5	2126028		Felis_chaus	jungle_cat
+473	alaskan_brown_bear.n.01	5	2132788		Kodiak	Kodiak_bear	Alaskan_brown_bear	Ursus_arctos_middendorffi	Ursus_middendorffi
+474	galloway.n.02	5	2407276		Galloway
+475	mantled_ground_squirrel.n.01	5	2358390		mantled_ground_squirrel	Citellus_lateralis
+476	borzoi.n.01	5	2090622		Russian_wolfhound	borzoi
+477	common_opossum.n.01	5	1875313		common_opossum	Didelphis_virginiana	Didelphis_marsupialis
+478	boskop_man.n.01	5	2475478		Boskop_man
+479	prairie_dog.n.01	5	2359324		prairie_marmot	prairie_dog
+480	quarter_horse.n.01	5	2379183		quarter_horse
+481	world.n.08	5	2472987		humanity	man	mankind	human_race	humans	humankind	world	human_beings
+482	smooth-haired_fox_terrier.n.01	5	2095212		smooth-haired_fox_terrier
+483	gazelle.n.01	5	2423022		gazelle
+484	boarhound.n.01	5	2088745		boarhound
+485	french_bulldog.n.01	5	2108915		French_bulldog
+486	rice_rat.n.01	5	2340640		Oryzomys_palustris	rice_rat
+487	eared_seal.n.01	5	2076779		eared_seal
+488	northern_pocket_gopher.n.01	5	2354781		Thomomys_talpoides	northern_pocket_gopher
+489	tibetan_terrier.n.01	5	2097474		Tibetan_terrier	chrysanthemum_dog
+490	springer_spaniel.n.01	5	2101861		springer_spaniel	springer
+491	kiang.n.01	5	2390738		Equus_kiang	kiang
+492	warrigal.n.01	5	2381744		warrigal	warragal
+493	leafnose_bat.n.01	5	2141713		leafnose_bat	leaf-nosed_bat
+494	murine.n.01	5	2331842		murine
+495	glutton.n.02	5	2449350		wolverine	Gulo_gulo	glutton
+496	meerkat.n.01	5	2138441		mierkat	meerkat
+497	kangaroo_mouse.n.01	5	2350670		dwarf_pocket_rat	kangaroo_mouse
+498	bellwether.n.02	5	2412337		bellwether
+499	war_admiral.n.01	5	2383912		War_Admiral
+500	chimpanzee.n.01	5	2481823		chimpanzee	Pan_troglodytes	chimp
+501	cattalo.n.01	5	2407763		cattalo	beefalo
+502	crab-eating_raccoon.n.01	5	2508346		Procyon_cancrivorus	crab-eating_raccoon
+503	solo_man.n.01	5	2474431		Solo_man
+504	alley_cat.n.01	5	2122510		alley_cat
+505	boar.n.02	5	2396014		boar
+506	paca.n.01	5	2366301		paca	Cuniculus_paca
+507	egyptian_cat.n.01	5	2124075		Egyptian_cat
+508	manatee.n.01	5	2073831		manatee	Trichechus_manatus
+509	fur_seal.n.01	5	2077658		fur_seal
+510	musk_ox.n.01	5	2411206		musk_ox	Ovibos_moschatus	musk_sheep
+511	pug.n.01	5	2110958		pug	pug-dog
+512	eskimo_dog.n.01	5	2109961		Eskimo_dog	husky
+513	bison.n.01	5	2410509		bison
+514	giraffe.n.01	5	2439033		Giraffa_camelopardalis	giraffe	camelopard
+515	ewe.n.03	5	2411999		ewe
+516	jaguarundi.n.01	5	2125689		jaguarundi	jaguarondi	Felis_yagouaroundi	eyra	jaguarundi_cat
+517	saint_bernard.n.01	5	2109525		Saint_Bernard	St_Bernard
+518	female_mammal.n.01	5	1862399		female_mammal
+519	corgi.n.01	5	2112826		Welsh_corgi	corgi
+520	gerenuk.n.01	5	2420828		gerenuk	Litocranius_walleri
+521	flying_fox.n.01	5	2140049		flying_fox
+522	unguiculate.n.01	5	2371344		unguiculate	unguiculate_mammal
+523	vampire_bat.n.01	5	2150482		vampire_bat	true_vampire_bat
+524	chamois.n.02	5	2419336		chamois	Rupicapra_rupicapra
+525	mandrill.n.01	5	2486908		mandrill	Mandrillus_sphinx
+526	lesser_rorqual.n.01	5	2065407		minke_whale	lesser_rorqual	piked_whale	Balaenoptera_acutorostrata
+527	packhorse.n.01	5	2386746		packhorse
+528	california_sea_lion.n.01	5	2078574		Zalophus_californianus	Zalophus_californicus	California_sea_lion
+529	vixen.n.02	5	2118643		vixen
+530	suslik.n.01	5	2358584		souslik	suslik	Citellus_citellus
+531	hamster.n.01	5	2342885		hamster
+532	norwich_terrier.n.01	5	2094258		Norwich_terrier
+533	duplicidentata.n.01	5	2322992		Duplicidentata
+534	kinkajou.n.01	5	2509197		Potos_flavus	kinkajou	Potos_caudivolvulus	potto	honey_bear
+535	capuchin.n.02	5	2492035		ringtail	capuchin	Cebus_capucinus
+536	pinto.n.01	5	2389261		pinto
+537	bedlington_terrier.n.01	5	2093647		Bedlington_terrier
+538	rorqual.n.01	5	2064338		rorqual	razorback
+539	brocket.n.01	5	2434712		brocket
+540	pilot_whale.n.01	5	2071636		black_whale	common_blackfish	pilot_whale	blackfish	Globicephala_melaena
+541	gallant_fox.n.01	5	2383708		Gallant_Fox
+542	rhodesian_ridgeback.n.01	5	2087394		Rhodesian_ridgeback
+543	mastiff.n.01	5	2108254		mastiff
+544	hereford.n.01	5	2407625		whiteface	Hereford
+545	mole_rat.n.02	5	2368821		mole_rat
+546	lynx.n.02	5	2127052		catamount	lynx
+547	puku.n.01	5	2428089		puku	Adenota_vardoni
+548	rabbit.n.01	5	2324045		cony	coney	rabbit
+549	megatherian.n.01	5	2458517		megatherian_mammal	megatherian	megatheriid
+550	paranthropus.n.01	5	2477516		Paranthropus	genus_Paranthropus
+551	peba.n.01	5	2454794		Dasypus_novemcinctus	peba	Texas_armadillo	nine-banded_armadillo
+552	white-footed_mouse.n.01	5	2336826		Peromyscus_leucopus	white-footed_mouse	vesper_mouse
+553	stoat.n.01	5	2442336		stoat
+554	water_buffalo.n.01	5	2408429		water_ox	Bubalus_bubalis	water_buffalo	Asiatic_buffalo
+555	arabian.n.02	5	2379908		Arabian	Arab
+556	mouser.n.01	5	2122430		mouser
+557	swine.n.01	5	2395003		swine
+558	simian.n.01	5	2470238		simian
+559	tamandua.n.01	5	2461128		tamandu	tamandua	Tamandua_tetradactyla	lesser_anteater
+560	chinchilla.n.03	5	2367492		chinchilla	Chinchilla_laniger
+561	red_bat.n.01	5	2146201		Lasiurus_borealis	red_bat
+562	livestock.n.01	5	1887474		livestock	stock	farm_animal
+563	chacma.n.01	5	2486657		chacma_baboon	Papio_ursinus	chacma
+564	equine.n.01	5	2374149		equid	equine
+565	three-year-old_horse.n.01	5	2385461		three-year-old_horse	three_year_old
+566	polo_pony.n.01	5	2380464		polo_pony
+567	english_toy_spaniel.n.01	5	2086478		English_toy_spaniel
+568	swamp_rabbit.n.02	5	2325884		swamp_hare	canecutter	swamp_rabbit	Sylvilagus_aquaticus
+569	mare.n.01	5	2377480		mare	female_horse
+570	lemur.n.01	5	2496913		lemur
+571	giant_panda.n.01	5	2510455		Ailuropoda_melanoleuca	panda_bear	giant_panda	panda	coon_bear
+572	pygmy_mouse.n.01	5	2337598		Baiomys_taylori	pygmy_mouse
+573	cougar.n.01	5	2125311		mountain_lion	catamount	Felis_concolor	panther	painter	puma	cougar
+574	timber_wolf.n.01	5	2114367		Canis_lupus	gray_wolf	timber_wolf	grey_wolf
+575	pteropus_hypomelanus.n.01	5	2140268		Pteropus_hypomelanus
+576	tapir.n.01	5	2393580		tapir
+577	hinny.n.01	5	2390258		hinny
+578	jack.n.12	5	2389943		jackass	jack
+579	eland.n.01	5	2426813		eland
+580	chesapeake_bay_retriever.n.01	5	2099849		Chesapeake_Bay_retriever
+581	angora.n.03	5	2328150		Angora	Angora_rabbit
+582	raccoon.n.02	5	2508021		racoon	raccoon
+583	squirrel_monkey.n.01	5	2494079		squirrel_monkey	Saimiri_sciureus
+584	steenbok.n.01	5	2426481		steenbok	steinbok	Raphicerus_campestris
+585	pole_horse.n.02	5	2387452		poler	pole_horse
+586	little_chief_hare.n.01	5	2328820		little_chief_hare	Ochotona_princeps
+587	kit_fox.n.01	5	2119789		Vulpes_macrotis	kit_fox
+588	soft-coated_wheaten_terrier.n.01	5	2098105		soft-coated_wheaten_terrier
+589	elephant.n.01	5	2503517		elephant
+590	cairn.n.02	5	2096177		cairn_terrier	cairn
+591	grizzly.n.01	5	2132580		silver-tip	grizzly_bear	Ursus_horribilis	grizzly	Ursus_arctos_horribilis	silvertip
+592	kaffir_cat.n.01	5	2125872		Felis_ocreata	kaffir_cat	caffer_cat
+593	greater_pichiciego.n.01	5	2456645		greater_pichiciego	Burmeisteria_retusa
+594	apar.n.01	5	2455135		three-banded_armadillo	Tolypeutes_tricinctus	apar
+595	flying_lemur.n.01	5	2502514		flying_cat	colugo	flying_lemur
+596	hooded_seal.n.01	5	2081060		bladdernose	Cystophora_cristata	hooded_seal
+597	broodmare.n.01	5	2377603		broodmare	stud_mare
+598	plott_hound.n.01	5	2090253		Plott_hound
+599	brewer's_mole.n.01	5	1890144		hair-tailed_mole	brewer's_mole	Parascalops_breweri
+600	pooch.n.01	5	2084732		pooch	doggie	bow-wow	doggy	barker
+601	mole.n.06	5	1889520		mole
+602	hack.n.07	5	2382132		hack
+603	colobus.n.01	5	2488702		colobus_monkey	colobus
+604	harnessed_antelope.n.01	5	2424695		harnessed_antelope
+605	guide_dog.n.01	5	2109150		guide_dog
+606	english_foxhound.n.01	5	2089973		English_foxhound
+607	langur.n.01	5	2488291		langur
+608	hudson_bay_collared_lemming.n.01	5	2345774		Dicrostonyx_hudsonius	Hudson_bay_collared_lemming
+609	fisher.n.02	5	2450829		pekan	black_cat	Martes_pennanti	fisher_cat	fisher
+610	draft_horse.n.01	5	2386496		dray_horse	draught_horse	draft_horse
+611	leveret.n.01	5	2326763		leveret
+612	echidna.n.01	5	1872772		echidna	spiny_anteater	anteater
+613	urial.n.01	5	2415130		urial	Ovis_vignei
+614	lion_cub.n.01	5	1322898		lion_cub
+615	goral.n.01	5	2418770		goral	Naemorhedus_goral
+616	palfrey.n.01	5	2378299		palfrey
+617	silky_terrier.n.01	5	2097658		Sydney_silky	silky_terrier
+618	spider_monkey.n.01	5	2493793		spider_monkey	Ateles_geoffroyi
+619	south_american_sea_lion.n.01	5	2078292		South_American_sea_lion	Otaria_Byronia
+620	reynard.n.01	5	2118707		Reynard
+621	procyonid.n.01	5	2507649		procyonid
+622	stag.n.02	5	2430559		stag
+623	assault.n.03	5	2384225		Assault
+624	persian_cat.n.01	5	2123394		Persian_cat
+625	mouse.n.01	5	2330245		mouse
+626	horseshoe_bat.n.02	5	2143439		horseshoe_bat
+627	smiledon_californicus.n.01	5	2130925		Smiledon_californicus
+628	american_marten.n.01	5	2450561		American_marten	Martes_americana	American_sable
+629	stablemate.n.01	5	2375438		stablemate	stable_companion
+630	mara.n.02	5	2365108		Dolichotis_patagonum	mara
+631	dun.n.01	5	2381261		dun
+632	platypus.n.01	5	1873310		duckbill	duckbilled_platypus	platypus	Ornithorhynchus_anatinus	duck-billed_platypus
+633	chestnut.n.06	5	2388735		chestnut
+634	seeing_eye_dog.n.01	5	2109256		Seeing_Eye_dog
+635	wharf_rat.n.02	5	2333733		wharf_rat
+636	zebu.n.01	5	2404906		zebu
+637	primate.n.02	5	2469914		primate
+638	dog.n.01	5	2084071		domestic_dog	Canis_familiaris	dog
+639	bongo.n.02	5	2424085		bongo	Boocercus_eurycerus	Tragelaphus_eurycerus
+640	saiga.n.01	5	2426176		saiga	Saiga_tatarica
+641	australian_terrier.n.01	5	2096294		Australian_terrier
+642	eastern_chimpanzee.n.01	5	2482286		Pan_troglodytes_schweinfurthii	eastern_chimpanzee
+643	white_whale.n.01	5	2072798		Delphinapterus_leucas	white_whale	beluga
+644	guano_bat.n.01	5	2149653		Mexican_freetail_bat	guano_bat	Tadarida_brasiliensis
+645	cob.n.02	5	2386141		cob
+646	miniature_schnauzer.n.01	5	2097047		miniature_schnauzer
+647	slender-tailed_meerkat.n.01	5	2138647		slender-tailed_meerkat	Suricata_suricatta
+648	stalking-horse.n.04	5	2385898		stalking-horse
+649	wild_boar.n.01	5	2396427		boar	wild_boar	Sus_scrofa
+650	american_shrew_mole.n.01	5	1891274		Neurotrichus_gibbsii	American_shrew_mole
+651	african_hunting_dog.n.01	5	2116738		African_hunting_dog	hyena_dog	Cape_hunting_dog	Lycaon_pictus
+652	tiger.n.02	5	2129604		Panthera_tigris	tiger
+653	ant_bear.n.01	5	2460451		great_anteater	ant_bear	tamanoir	Myrmecophaga_jubata	giant_anteater
+654	arctic_fox.n.01	5	2120079		Alopex_lagopus	white_fox	Arctic_fox
+655	gazella_subgutturosa.n.01	5	2423362		Gazella_subgutturosa
+656	entlebucher.n.01	5	2108000		EntleBucher
+657	miniature_pinscher.n.01	5	2107312		miniature_pinscher
+658	tiger_cat.n.01	5	2126465		tiger_cat	Felis_tigrina
+659	greater_swiss_mountain_dog.n.01	5	2107574		Greater_Swiss_Mountain_dog
+660	american_badger.n.01	5	2447762		American_badger	Taxidea_taxus
+661	sand_cat.n.01	5	2125010		sand_cat
+662	norwegian_elkhound.n.01	5	2091467		Norwegian_elkhound	elkhound
+663	australian_sea_lion.n.01	5	2078738		Zalophus_lobatus	Australian_sea_lion
+664	masked_shrew.n.01	5	1892145		masked_shrew	Sorex_cinereus
+665	chevrotain.n.01	5	2435853		mouse_deer	chevrotain
+666	american_saddle_horse.n.01	5	2379630		American_saddle_horse
+667	warhorse.n.03	5	2378415		warhorse
+668	wolfhound.n.01	5	2090475		wolfhound
+669	cynopterus_sphinx.n.01	5	2140858		Cynopterus_sphinx
+670	sorrel.n.05	5	2389026		sorrel
+671	bottlenose_dolphin.n.01	5	2069701		bottlenose_dolphin	bottle-nosed_dolphin	bottlenose
+672	cow_pony.n.01	5	2379081		cow_pony
+673	canada_porcupine.n.01	5	2348173		Canada_porcupine	Erethizon_dorsatum
+674	black_rhinoceros.n.01	5	2393161		Diceros_bicornis	black_rhinoceros
+675	maltese.n.03	5	2124157		Maltese	Maltese_cat
+676	sivapithecus.n.01	5	2477782		Sivapithecus
+677	aberdeen_angus.n.01	5	2405929		Angus	black_Angus	Aberdeen_Angus
+678	marsh_hare.n.01	5	2326074		swamp_rabbit	Sylvilagus_palustris	marsh_hare
+679	thylacine.n.01	5	1884476		thylacine	Thylacinus_cynocephalus	Tasmanian_wolf	Tasmanian_tiger
+680	common_raccoon.n.01	5	2508213		common_racoon	Procyon_lotor	ringtail	common_raccoon	coon
+681	mountain_beaver.n.01	5	2363996		sewellel	mountain_beaver	Aplodontia_rufa
+682	blue_point_siamese.n.01	5	2123785		blue_point_Siamese
+683	skye_terrier.n.01	5	2097786		Skye_terrier
+684	maltese_dog.n.01	5	2085936		Maltese	Maltese_terrier	Maltese_dog
+685	muntjac.n.01	5	2434954		barking_deer	muntjac
+686	flickertail.n.01	5	2358712		Richardson_ground_squirrel	flickertail	Citellus_richardsoni
+687	brush-tailed_phalanger.n.01	5	1881857		brush-tailed_phalanger	Trichosurus_vulpecula
+688	milking_shorthorn.n.01	5	2407172		milking_shorthorn
+689	nanny.n.02	5	2416964		nanny-goat	she-goat	nanny
+690	lesser_panda.n.01	5	2509815		red_panda	lesser_panda	Ailurus_fulgens	panda	cat_bear	bear_cat
+691	otter_shrew.n.01	5	1894956		Potamogale_velox	otter_shrew	potamogale
+692	ratel.n.01	5	2448318		Mellivora_capensis	honey_badger	ratel
+693	hind.n.02	5	2431441		hind
+694	bluetick.n.01	5	2088632		bluetick
+695	jaguar.n.01	5	2128925		Panthera_onca	panther	jaguar	Felis_onca
+696	kit_fox.n.02	5	2119634		kit_fox	Vulpes_velox	prairie_fox
+697	kangaroo.n.01	5	1877134		kangaroo
+698	harp_seal.n.01	5	2080146		harp_seal	Pagophilus_groenlandicus
+699	beef.n.01	5	2404186		beef_cattle	beef
+700	macrotus.n.01	5	2142407		Macrotus_californicus	macrotus
+701	black-footed_ferret.n.01	5	2443484		ferret	black-footed_ferret	Mustela_nigripes
+702	eastern_woodrat.n.01	5	2340358		Neotoma_floridana	eastern_woodrat
+703	tree_wallaby.n.01	5	1879509		tree_wallaby	tree_kangaroo
+704	gee-gee.n.01	5	2375757		gee-gee
+705	jaculus_jaculus.n.01	5	2352290		Jaculus_jaculus
+706	plow_horse.n.01	5	2382338		plough_horse	plow_horse
+707	rat.n.01	5	2331046		rat
+708	leopard_cat.n.01	5	2126317		Felis_bengalensis	leopard_cat
+709	freetail.n.01	5	2149420		freetailed_bat	freetail	free-tailed_bat
+710	domestic_cat.n.01	5	2121808		house_cat	Felis_domesticus	Felis_catus	domestic_cat
+711	spitz.n.01	5	2111626		spitz
+712	eurasian_badger.n.01	5	2448060		Meles_meles	Eurasian_badger
+713	dachshund.n.01	5	2089232		dachshund	badger_dog	dachsie
+714	kanchil.n.01	5	2436224		kanchil	Tragulus_kanchil
+715	typical_jerboa.n.01	5	2352002		typical_jerboa
+716	dolphin.n.02	5	2068974		dolphin
+717	javanthropus.n.01	5	2474282		Javanthropus	genus_Javanthropus
+718	river_dolphin.n.01	5	2072040		river_dolphin
+719	african_elephant.n.01	5	2504458		African_elephant	Loxodonta_africana
+720	marsupial.n.01	5	1874434		marsupial	pouched_mammal
+721	bear.n.01	5	2131653		bear
+722	new_world_mouse.n.01	5	2336011		New_World_mouse
+723	fossa.n.03	5	2136452		Cryptoprocta_ferox	fossa	fossa_cat
+724	brown_bat.n.01	5	2146371		brown_bat
+725	serow.n.01	5	2419056		serow
+726	buck.n.05	5	1888264		buck
+727	babirusa.n.01	5	2396796		Babyrousa_Babyrussa	babirusa	babiroussa	babirussa
+728	proboscidean.n.01	5	2503127		proboscidian	proboscidean
+729	kerry_blue_terrier.n.01	5	2093859		Kerry_blue_terrier
+730	lerot.n.01	5	2353411		lerot
+731	omaha.n.04	5	2383813		Omaha
+732	blacktail_jackrabbit.n.01	5	2327435		Lepus_californicus	blacktail_jackrabbit
+733	leopard.n.02	5	2128385		leopard	Panthera_pardus
+734	waterbuck.n.01	5	2427724		waterbuck
+735	tabby.n.01	5	2123045		tabby	tabby_cat
+736	giant_schnauzer.n.01	5	2097130		giant_schnauzer
+737	ferret_badger.n.01	5	2448633		ferret_badger
+738	polar_hare.n.01	5	2327656		Lepus_arcticus	Arctic_hare	polar_hare
+739	gemsbok.n.01	5	2428508		gemsbok	Oryx_gazella	gemsbuck
+740	wild_dog.n.01	5	2115335		wild_dog
+741	working_dog.n.01	5	2103406		working_dog
+742	gibbon.n.02	5	2483362		Hylobates_lar	gibbon
+743	monotreme.n.01	5	1871875		monotreme	egg-laying_mammal
+744	belgian_sheepdog.n.01	5	2104882		Belgian_sheepdog	Belgian_shepherd
+745	steed.n.01	5	2378755		steed
+746	pole_horse.n.01	5	2388453		pole_horse
+747	ruminant.n.01	5	2399000		ruminant
+748	poodle.n.01	5	2113335		poodle	poodle_dog
+749	mudder.n.01	5	2385676		mudder
+750	dalmatian.n.02	5	2110341		dalmatian	coach_dog	carriage_dog
+751	english_setter.n.01	5	2100735		English_setter
+752	peccary.n.01	5	2397529		musk_hog	peccary
+753	airedale.n.01	5	2096051		Airedale_terrier	Airedale
+754	whale.n.02	5	2062744		whale
+755	two-toed_sloth.n.02	5	2457945		two-toed_sloth	unau	unai	Choloepus_didactylus
+756	neandertal_man.n.01	5	2475078		Homo_sapiens_neanderthalensis	Neanderthal	Neandertal_man	Neanderthal_man	Neandertal
+757	short-tailed_shrew.n.01	5	1892385		short-tailed_shrew	Blarina_brevicauda
+758	markhor.n.01	5	2417785		markhor	markhoor	Capra_falconeri
+759	macaque.n.01	5	2487347		macaque
+760	africander.n.01	5	2406046		Africander
+761	jerboa.n.01	5	2351870		jerboa
+762	exmoor.n.01	5	2413824		Exmoor
+763	labrador_retriever.n.01	5	2099712		Labrador_retriever
+764	potto.n.02	5	2499316		kinkajou	potto	Perodicticus_potto
+765	proconsul.n.03	5	2478875		proconsul
+766	field_mouse.n.02	5	2332755		fieldmouse	field_mouse
+767	nyala.n.02	5	2424909		Tragelaphus_angasi	nyala
+768	basset.n.01	5	2088238		basset	basset_hound
+769	mountain_paca.n.01	5	2366579		mountain_paca
+770	whitetail_prairie_dog.n.01	5	2359667		whitetail_prairie_dog	Cynomys_gunnisoni
+771	eastern_grey_squirrel.n.01	5	2356381		Sciurus_carolinensis	eastern_gray_squirrel	cat_squirrel	eastern_grey_squirrel
+772	plantigrade_mammal.n.01	5	2506947		plantigrade_mammal	plantigrade
+773	porcupine.n.01	5	2346627		porcupine	hedgehog
+774	brown_bear.n.01	5	2132136		brown_bear	Ursus_arctos	bruin
+775	schnauzer.n.01	5	2096756		schnauzer
+776	leonberg.n.01	5	2111129		Leonberg
+777	dusky-footed_wood_rat.n.01	5	2339282		dusky-footed_wood_rat
+778	caracal.n.01	5	2127678		caracal	desert_lynx	Lynx_caracal
+779	rodent.n.01	5	2329401		rodent	gnawer
+780	harpy.n.03	5	2140491		harpy	tube-nosed_fruit_bat	harpy_bat	tube-nosed_bat
+781	curly-coated_retriever.n.01	5	2099429		curly-coated_retriever
+782	affenpinscher.n.01	5	2110627		affenpinscher	monkey_pinscher	monkey_dog
+783	edentate.n.01	5	2453611		edentate
+784	woolly_monkey.n.01	5	2494383		woolly_monkey
+785	old_world_buffalo.n.01	5	2407959		Old_World_buffalo	buffalo
+786	american_mink.n.01	5	2443015		Mustela_vison	American_mink
+787	gnu.n.01	5	2421449		gnu	wildebeest
+788	water_rat.n.03	5	2335127		water_rat
+789	spouter.n.03	5	2072953		spouter
+790	great_ape.n.01	5	2480153		pongid	great_ape
+791	collared_peccary.n.01	5	2397744		Tayassu_tajacu	Peccari_angulatus	Tayassu_angulatus	collared_peccary	javelina
+792	rudapithecus.n.01	5	2478239		Dryopithecus_Rudapithecus_hungaricus	rudapithecus
+793	llama.n.01	5	2437616		llama
+794	dinocerate.n.01	5	2372046		dinocerate
+795	beagle.n.01	5	2088364		beagle
+796	flying_mouse.n.01	5	1882508		flying_mouse
+797	impala.n.01	5	2422699		Aepyceros_melampus	impala
+798	broadtail.n.02	5	2414043		caracul	broadtail	karakul
+799	coondog.n.01	5	2088992		coondog
+800	round-tailed_muskrat.n.01	5	2338449		Neofiber_alleni	Florida_water_rat	round-tailed_muskrat
+801	cro-magnon.n.01	5	2475358		Cro-magnon
+802	staffordshire_bullterrier.n.01	5	2093256		Staffordshire_bullterrier	Staffordshire_bull_terrier
+803	jackrabbit.n.01	5	2327028		jackrabbit
+804	bruin.n.01	5	2132320		bruin
+805	springer.n.02	5	2403644		springing_cow	springer
+806	long-tailed_porcupine.n.01	5	2347573		long-tailed_porcupine	Trichys_lipura
+807	sausage_dog.n.01	5	2089468		sausage_dog	sausage_hound
+808	imperial_mammoth.n.01	5	2505485		Archidiskidon_imperator	imperial_elephant	imperial_mammoth
+809	fox.n.01	5	2118333		fox
+810	ichneumon.n.01	5	2137888		ichneumon	Herpestes_ichneumon
+811	hound.n.01	5	2087551		hound_dog	hound
+812	cocker_spaniel.n.01	5	2102318		cocker_spaniel	cocker	English_cocker_spaniel
+813	western_lowland_gorilla.n.01	5	2481103		Gorilla_gorilla_gorilla	western_lowland_gorilla
+814	bassarisk.n.01	5	2508742		cacomixle	coon_cat	bassarisk	ringtail	Bassariscus_astutus	raccoon_fox	cacomistle	ring-tailed_cat	civet_cat	miner's_cat
+815	desmodus_rotundus.n.01	5	2150885		Desmodus_rotundus
+816	madagascar_cat.n.01	5	2497673		Lemur_catta	ring-tailed_lemur	Madagascar_cat
+817	valley_pocket_gopher.n.01	5	2354621		valley_pocket_gopher	Thomomys_bottae
+818	nude_mouse.n.01	5	2332954		nude_mouse
+819	slow_loris.n.01	5	2499022		Nycticebus_tardigradua	slow_loris	Nycticebus_pygmaeus
+820	yearling.n.02	5	2385214		yearling
+821	hog-nosed_skunk.n.01	5	2446645		rooter_skunk	Conepatus_leuconotus	hog-nosed_skunk	hognosed_skunk	badger_skunk
+822	roe_deer.n.01	5	2433546		Capreolus_capreolus	roe_deer
+823	grey_fox.n.01	5	2120505		Urocyon_cinereoargenteus	grey_fox	gray_fox
+824	indian_mongoose.n.01	5	2137722		Indian_mongoose	Herpestes_nyula
+825	mammoth.n.01	5	2504770		mammoth
+826	hazel_mouse.n.01	5	2353172		Muscardinus_avellanarius	hazel_mouse
+827	protohippus.n.01	5	2376423		protohippus
+828	standard_schnauzer.n.01	5	2097209		standard_schnauzer
+829	right_whale.n.01	5	2063662		right_whale
+830	shrew.n.02	5	1891633		shrewmouse	shrew
+831	dik-dik.n.01	5	2421792		dik-dik
+832	water_shrew.n.01	5	1892551		water_shrew
+833	hoary_marmot.n.01	5	2361706		whistling_marmot	whistler	Marmota_caligata	hoary_marmot
+834	vespertilian_bat.n.01	5	2145424		vespertilionid	vespertilian_bat
+835	polecat.n.02	5	2443114		polecat	Mustela_putorius	fitch	foulmart	foumart
+836	crabeater_seal.n.01	5	2076402		crabeater_seal	crab-eating_seal
+837	nail-tailed_wallaby.n.01	5	1878639		nail-tailed_kangaroo	nail-tailed_wallaby
+838	onager.n.02	5	2390834		onager	Equus_hemionus
+839	jerboa_rat.n.01	5	2334460		jerboa_rat
+840	small_civet.n.01	5	2135844		small_civet	Viverricula_malaccensis	Viverricula_indica
+841	margay.n.01	5	2126640		margay_cat	margay	Felis_wiedi
+842	common_eland.n.01	5	2427032		Taurotragus_oryx	common_eland
+843	harness_horse.n.01	5	2386014		harness_horse
+844	guinea_pig.n.02	5	2364673		guinea_pig	Cavia_cobaya
+845	white_elephant.n.02	5	2504196		white_elephant
+846	clumber.n.01	5	2101556		clumber	clumber_spaniel
+847	pacer.n.02	5	2387983		pacer
+848	pteropus_capestratus.n.01	5	2140179		Pteropus_capestratus
+849	siberian_husky.n.01	5	2110185		Siberian_husky
+850	frosted_bat.n.01	5	2145910		Vespertilio_murinus	frosted_bat
+851	guernsey.n.02	5	2407521		Guernsey
+852	bobcat.n.01	5	2127482		bay_lynx	bobcat	Lynx_rufus
+853	cayuse.n.01	5	2382039		cayuse	Indian_pony
+854	american_red_squirrel.n.01	5	2357401		Tamiasciurus_hudsonicus	American_red_squirrel	Sciurus_hudsonicus	red_squirrel	spruce_squirrel
+855	fruit_bat.n.01	5	2139671		megabat	fruit_bat
+856	mammal.n.01	5	1861778		mammalian	mammal
+857	new_world_tapir.n.01	5	2393807		Tapirus_terrestris	New_World_tapir
+858	blenheim_spaniel.n.01	5	2086646		Blenheim_spaniel
+859	uakari.n.01	5	2493224		uakari
+860	secretariat.n.02	5	2384428		Secretariat
+861	syrian_bear.n.01	5	2132466		Syrian_bear	Ursus_arctos_syriacus
+862	komondor.n.01	5	2105505		komondor
+863	flat-coated_retriever.n.01	5	2099267		flat-coated_retriever
+864	ground_sloth.n.01	5	2458822		ground_sloth	megathere
+865	wildcat.n.03	5	2124623		wildcat
+866	phalanger.n.01	5	1881171		phalanger	possum	opossum
+867	big_cat.n.01	5	2127808		cat	big_cat
+868	brittany_spaniel.n.01	5	2101388		Brittany_spaniel
+869	black-tailed_deer.n.01	5	2432704		blacktail	black-tailed_deer	Odocoileus_hemionus_columbianus	blacktail_deer
+870	house_mouse.n.01	5	2332156		Mus_musculus	house_mouse
+871	groenendael.n.01	5	2105056		groenendael
+872	springbok.n.01	5	2423589		springbok	springbuck	Antidorcas_euchore	Antidorcas_marsupialis
+873	mountain_chinchilla.n.01	5	2367812		mountain_chinchilla	mountain_viscacha
+874	grison.n.01	5	2449699		grison	Galictis_vittatus	Grison_vittatus
+875	southern_bog_lemming.n.01	5	2345997		Synaptomys_cooperi	southern_bog_lemming
+876	bactrian_camel.n.01	5	2437482		Bactrian_camel	Camelus_bactrianus
+877	plains_pocket_gopher.n.01	5	2354162		plains_pocket_gopher	Geomys_bursarius
+878	little_brown_bat.n.01	5	2146700		little_brown_myotis	little_brown_bat	Myotis_leucifugus
+879	crab-eating_dog.n.01	5	2116185		crab-eating_fox	crab-eating_dog	Dusicyon_cancrivorus
+880	titi.n.03	5	2493509		titi	titi_monkey
+881	kudu.n.01	5	2424305		koodoo	kudu	koudou
+882	sheep.n.01	5	2411705		sheep
+883	dusky-footed_woodrat.n.01	5	2340186		Neotoma_fuscipes	dusky-footed_woodrat
+884	red-backed_mouse.n.01	5	2342250		redback_vole	red-backed_mouse
+885	ground_squirrel.n.02	5	2358091		spermophile	ground_squirrel	gopher
+886	meadow_jumping_mouse.n.01	5	2351343		meadow_jumping_mouse	Zapus_hudsonius
+887	aardwolf.n.01	5	2118176		Proteles_cristata	aardwolf
+888	napu.n.01	5	2436353		Tragulus_Javanicus	napu
+889	hare.n.01	5	2326432		hare
+890	feist.n.01	5	2085019		feist	fice
+891	red_poll.n.01	5	2405692		red_poll
+892	pinscher.n.01	5	2106966		pinscher
+893	ord_kangaroo_rat.n.01	5	2350357		Dipodomys_ordi	Ord_kangaroo_rat
+894	prancer.n.01	5	2378870		prancer
+895	white-tailed_jackrabbit.n.01	5	2327175		white-tailed_jackrabbit	whitetail_jackrabbit	Lepus_townsendi
+896	burmese_cat.n.01	5	2123917		Burmese_cat
+897	stallion.n.01	5	2377181		stallion	entire
+898	marmoset.n.01	5	2490219		marmoset
+899	algeripithecus_minutus.n.01	5	2479634		Algeripithecus_minutus
+900	damaraland_mole_rat.n.01	5	2370137		Damaraland_mole_rat
+901	quagga.n.01	5	2391617		Equus_quagga	quagga
+902	rhesus.n.01	5	2487547		rhesus	Macaca_mulatta	rhesus_monkey
+903	hartebeest.n.01	5	2422106		hartebeest
+904	australopithecus_afarensis.n.01	5	2476567		Australopithecus_afarensis
+905	marco_polo_sheep.n.01	5	2414904		Marco_Polo_sheep	Marco_Polo's_sheep	Ovis_poli
+906	bronco.n.01	5	2380745		bronc	broncho	bronco
+907	siamese_cat.n.01	5	2123597		Siamese	Siamese_cat
+908	bovine.n.01	5	2402010		bovine
+909	seizure-alert_dog.n.01	5	2109687		seizure-alert_dog
+910	central_chimpanzee.n.01	5	2482474		Pan_troglodytes_troglodytes	central_chimpanzee
+911	bunny.n.02	5	2324587		bunny_rabbit	bunny
+912	harbor_seal.n.01	5	2079851		Phoca_vitulina	harbor_seal	common_seal
+913	pointer.n.04	5	2099997		Spanish_pointer	pointer
+914	echidna.n.02	5	1872401		echidna	spiny_anteater	anteater
+915	dall_sheep.n.01	5	2415253		white_sheep	Dall's_sheep	Ovis_montana_dalli	Dall_sheep
+916	staghound.n.01	5	2092173		staghound
+917	thoroughbred.n.02	5	2383231		thoroughbred
+918	sand_rat.n.01	5	2369555		sand_rat
+919	bear_cub.n.01	5	1322983		bear_cub
+920	sloth_bear.n.01	5	2134418		Ursus_ursinus	Melursus_ursinus	sloth_bear
+921	anoa.n.01	5	2409038		Anoa_depressicornis	anoa	dwarf_buffalo
+922	giant_eland.n.01	5	2427183		giant_eland	Taurotragus_derbianus
+923	sussex_spaniel.n.01	5	2102480		Sussex_spaniel
+924	indian_elephant.n.01	5	2504013		Indian_elephant	Elephas_maximus
+925	lhasa.n.02	5	2098413		Lhasa_apso	Lhasa
+926	sealyham_terrier.n.01	5	2095889		Sealyham_terrier	Sealyham
+927	guadalupe_fur_seal.n.01	5	2077384		guadalupe_fur_seal	Arctocephalus_philippi
+928	meadow_vole.n.01	5	2341288		meadow_mouse	meadow_vole	Microtus_pennsylvaticus
+929	shetland_sheepdog.n.01	5	2105855		Shetland_sheep_dog	Shetland_sheepdog	Shetland
+930	australopithecus_robustus.n.01	5	2477329		Australopithecus_robustus
+931	phenacomys.n.01	5	2342534		phenacomys
+932	takin.n.01	5	2419634		takin	gnu_goat	Budorcas_taxicolor
+933	rock_hyrax.n.01	5	2372952		rock_rabbit	rock_hyrax	Procavia_capensis
+934	heifer.n.01	5	2403740		heifer
+935	manx.n.02	5	2124484		Manx	Manx_cat
+936	bullterrier.n.01	5	2093056		bullterrier	bull_terrier
+937	hack.n.06	5	2382204		plug	hack	jade	nag
+938	western_big-eared_bat.n.01	5	2148991		western_big-eared_bat	Plecotus_townsendi
+939	bottle-nosed_whale.n.01	5	2068541		bottle-nosed_whale	bottlenose_whale	bottlenose	Hyperoodon_ampullatus
+940	serval.n.01	5	2126139		serval	Felis_serval
+941	longwool.n.01	5	2414209		longwool
+942	common_shrew.n.01	5	1892030		common_shrew	Sorex_araneus
+943	king_charles_spaniel.n.01	5	2086753		King_Charles_spaniel
+944	pocket_mouse.n.01	5	2348788		pocket_mouse
+945	cur.n.01	5	2084861		mongrel	cur	mutt
+946	brown_rat.n.01	5	2333546		Norway_rat	brown_rat	Rattus_norvegicus
+947	muskrat.n.02	5	2338145		Ondatra_zibethica	muskrat	musquash
+948	naked_mole_rat.n.01	5	2369680		naked_mole_rat
+949	sloth.n.02	5	2456962		tree_sloth	sloth
+950	fossorial_mammal.n.01	5	2153809		fossorial_mammal
+951	mastiff_bat.n.01	5	2150134		mastiff_bat
+952	patas.n.01	5	2486261		hussar_monkey	Erythrocebus_patas	patas
+953	peludo.n.01	5	2455720		poyou	peludo	Euphractus_sexcinctus
+954	carnivorous_bat.n.01	5	2141306		carnivorous_bat	microbat
+955	aye-aye.n.01	5	2498153		Daubentonia_madagascariensis	aye-aye
+956	false_saber-toothed_tiger.n.01	5	2131211		false_saber-toothed_tiger
+957	tarpan.n.01	5	2381609		tarpan	Equus_caballus_gomelini
+958	jackass_bat.n.01	5	2148512		spotted_bat	jackass_bat	Euderma_maculata
+959	trotting_horse.n.01	5	2388276		trotting_horse	trotter
+960	mountain_nyala.n.01	5	2425086		mountain_nyala	Tragelaphus_buxtoni
+961	peking_man.n.01	5	2473857		Peking_man
+962	shrew_mole.n.01	5	1890860		shrew_mole
+963	okapi.n.01	5	2439398		okapi	Okapia_johnstoni
+964	tom.n.02	5	2122725		tom	tomcat
+965	tarsius_glis.n.01	5	2502006		Tarsius_glis
+966	even-toed_ungulate.n.01	5	2394477		artiodactyl_mammal	even-toed_ungulate	artiodactyl
+967	lippizan.n.01	5	2380052		Lippizan	Lippizaner	Lipizzan
+968	tabby.n.02	5	2122878		tabby	queen
+969	aoudad.n.01	5	2416104		maned_sheep	Barbary_sheep	aoudad	audad	Ammotragus_lervia	arui
+970	silky_tamarin.n.01	5	2491329		Leontocebus_rosalia	silky_tamarin
+971	hippopotamus.n.01	5	2398521		hippo	hippopotamus	river_horse	Hippopotamus_amphibius
+972	vervet.n.01	5	2485536		Cercopithecus_aethiops_pygerythrus	vervet_monkey	vervet
+973	old_world_beaver.n.01	5	2363245		Castor_fiber	Old_World_beaver
+974	lakeland_terrier.n.01	5	2095570		Lakeland_terrier
+975	drill.n.02	5	2487079		Mandrillus_leucophaeus	drill
+976	white-lipped_peccary.n.01	5	2397987		Tayassu_pecari	white-lipped_peccary
+977	wolf_pup.n.01	5	1322508		wolf_cub	wolf_pup
+978	toy_terrier.n.01	5	2087046		toy_terrier
+979	warthog.n.01	5	2397096		warthog
+980	red_squirrel.n.02	5	2357111		Sciurus_vulgaris	cat_squirrel	red_squirrel
+981	ass.n.03	5	2389346		ass
+982	skunk.n.04	5	2445715		skunk	polecat	wood_pussy
+983	ox.n.01	5	2403003		ox
+984	burro.n.01	5	2389779		burro
+985	percheron.n.01	5	2387093		Percheron
+986	boston_bull.n.01	5	2096585		Boston_bull	Boston_terrier
+987	mountain_goat.n.01	5	2418465		Rocky_Mountain_goat	Oreamnos_americanus	mountain_goat
+988	pallid_bat.n.01	5	2147591		cave_bat	Antrozous_pallidus	pallid_bat
+989	malinois.n.01	5	2105162		malinois
+990	woolly_indris.n.01	5	2500596		Avahi_laniger	woolly_indris
+991	spaniel.n.01	5	2101108		spaniel
+992	wapiti.n.01	5	2431785		elk	Cervus_elaphus_canadensis	wapiti	American_elk
+993	crab-eating_macaque.n.01	5	2488003		croo_monkey	Macaca_irus	crab-eating_macaque
+994	pipistrelle.n.01	5	2147947		Pipistrellus_pipistrellus	pipistrelle	pipistrel
+995	billy.n.02	5	2416880		billy	he-goat	billy_goat
+996	suricate.n.01	5	2138777		Suricata_tetradactyla	suricate
+997	brown_swiss.n.01	5	2406533		Brown_Swiss
+998	bull.n.11	5	1887623		bull
+999	new_world_monkey.n.01	5	2489589		New_World_monkey	platyrrhine	platyrrhinian
+1000	chow.n.03	5	2112137		chow_chow	chow
+1001	bay.n.07	5	2388917		bay
+1002	marmot.n.01	5	2361337		marmot
+1003	tarsier.n.01	5	2501583		tarsier
+1004	irish_wolfhound.n.01	5	2090721		Irish_wolfhound
+1005	fox_squirrel.n.01	5	2356798		fox_squirrel	Sciurus_niger	eastern_fox_squirrel
+1006	cow.n.02	5	1887787		cow
+1007	scotch_terrier.n.01	5	2097298		Scottish_terrier	Scottie	Scotch_terrier
+1008	hampshire.n.02	5	2413593		Hampshire	Hampshire_down
+1009	unguiculata.n.01	5	2371125		Unguiculata
+1010	keeshond.n.01	5	2112350		keeshond
+1011	tasmanian_devil.n.01	5	1884834		Sarcophilus_hariisi	Tasmanian_devil	ursine_dasyure
+1012	black_sheep.n.02	5	2413050		black_sheep
+1013	porpoise.n.01	5	2070430		porpoise
+1014	cryptoprocta.n.01	5	2136285		Cryptoprocta	genus_Cryptoprocta
+1015	water_spaniel.n.01	5	2102605		water_spaniel
+1016	blue_fox.n.01	5	2120278		blue_fox
+1017	santa_gertrudis.n.01	5	2405799		Santa_Gertrudis
+1018	loir.n.01	5	2352932		Glis_glis	loir
+1019	bull_mastiff.n.01	5	2108422		bull_mastiff
+1020	sow.n.01	5	2396088		sow
+1021	european_hare.n.01	5	2326862		Lepus_europaeus	European_hare
+1022	grivet.n.01	5	2485371		grivet	Cercopithecus_aethiops
+1023	chickeree.n.01	5	2357585		chickeree	Douglas_squirrel	Tamiasciurus_douglasi
+1024	packrat.n.02	5	2339922		bushytail_woodrat	Neotoma_cinerea	pack_rat	trade_rat	packrat
+1025	angwantibo.n.01	5	2499568		Arctocebus_calabarensis	angwantibo	golden_potto
+1026	canine.n.02	5	2083346		canine	canid
+1027	camel.n.01	5	2437136		camel
+1028	brahman.n.04	5	2404573		Bos_indicus	Brahman	Brahma	Brahmin
+1029	schipperke.n.01	5	2104365		schipperke
+1030	european_rabbit.n.01	5	2324850		European_rabbit	Old_World_rabbit	Oryctolagus_cuniculus
+1031	gorilla.n.01	5	2480855		Gorilla_gorilla	gorilla
+1032	mountain_zebra.n.01	5	2391373		Equus_zebra_zebra	mountain_zebra
+1033	wild_sheep.n.01	5	2414578		wild_sheep
+1034	grampus.n.02	5	2071028		Grampus_griseus	grampus
+1035	ape.n.01	5	2470325		ape
+1036	alaska_fur_seal.n.01	5	2077787		Alaska_fur_seal	Callorhinus_ursinus
+1037	walrus.n.01	5	2081571		walrus	sea_horse	seahorse
+1038	wombat.n.01	5	1883070		wombat
+1039	razorback.n.01	5	2396157		razorback	razorback_hog	razorbacked_hog
+1040	american_foxhound.n.01	5	2089725		American_foxhound
+1041	goat.n.01	5	2416519		goat	caprine_animal
+1042	zebra.n.01	5	2391049		zebra
+1043	wirehair.n.01	5	2095412		wirehair	wirehaired_terrier	wire-haired_terrier
+1044	kuvasz.n.01	5	2104029		kuvasz
+1045	ungulata.n.01	5	2370525		Ungulata
+1046	anteater.n.02	5	2460009		New_World_anteater	anteater
+1047	kob.n.01	5	2427470		Kobus_kob	kob
+1048	border_collie.n.01	5	2106166		Border_collie
+1049	striped_skunk.n.01	5	2446206		Mephitis_mephitis	striped_skunk
+1050	liger.n.01	5	2129991		liger
+1051	tusker.n.01	5	1871265		tusker
+1052	false_vampire.n.01	5	2144593		false_vampire	false_vampire_bat
+1053	housedog.n.01	5	2104280		housedog
+1054	old_english_sheepdog.n.01	5	2105641		Old_English_sheepdog	bobtail
+1055	toy_spaniel.n.01	5	2086346		toy_spaniel
+1056	hognose_bat.n.01	5	2143142		Choeronycteris_mexicana	hognose_bat
+1057	ram.n.05	5	2412080		tup	ram
+1058	hyena.n.01	5	2117135		hyena	hyaena
+1059	giant_kangaroo.n.01	5	1877606		giant_kangaroo	great_grey_kangaroo	Macropus_giganteus
+1060	grevy's_zebra.n.01	5	2391508		grevy's_zebra	Equus_grevyi
+1061	fawn.n.02	5	2430830		fawn
+1062	odd-toed_ungulate.n.01	5	2373336		odd-toed_ungulate	perissodactyl	perissodactyl_mammal
+1063	squirrel.n.01	5	2355227		squirrel
+1064	common_dolphin.n.01	5	2069412		common_dolphin	Delphinus_delphis
+1065	western_grey_squirrel.n.01	5	2356612		western_grey_squirrel	western_gray_squirrel	Sciurus_griseus
+1066	mule.n.01	5	2390101		mule
+1067	sei_whale.n.01	5	2065263		sei_whale	Balaenoptera_borealis
+1068	steller's_sea_cow.n.01	5	2074726		Steller's_sea_cow	Hydrodamalis_gigas
+1069	moke.n.01	5	2389865		moke
+1070	grey.n.07	5	2381364		gray	grey
+1071	banded_palm_civet.n.01	5	2137302		Hemigalus_hardwickii	banded_palm_civet
+1072	dwarf_sperm_whale.n.01	5	2067768		dwarf_sperm_whale	Kogia_simus
+1073	cashmere_goat.n.01	5	2417242		Kashmir_goat	Cashmere_goat
+1074	snake_muishond.n.01	5	2443959		snake_muishond	Poecilogale_albinucha
+1075	serotine.n.01	5	2147328		European_brown_bat	serotine	Eptesicus_serotinus
+1076	genet.n.03	5	2137015		genet	Genetta_genetta
+1077	cotton_mouse.n.01	5	2337332		cotton_mouse	Peromyscus_gossypinus
+1078	yearling.n.03	5	1888181		yearling
+1079	golden_retriever.n.01	5	2099601		golden_retriever
+1080	bitch.n.04	5	2083672		bitch
+1081	common_lynx.n.01	5	2127292		common_lynx	Lynx_lynx
+1082	asian_wild_ox.n.01	5	2409870		Asian_wild_ox
+1083	caribou.n.01	5	2433925		reindeer	Greenland_caribou	caribou	Rangifer_tarandus
+1084	irish_terrier.n.01	5	2093991		Irish_terrier
+1085	native_cat.n.01	5	1884203		Dasyurus_viverrinus	native_cat
+1086	aegyptopithecus.n.01	5	2479332		Aegyptopithecus
+1087	pony.n.05	5	2382437		pony
+1088	english_springer.n.01	5	2102040		English_springer	English_springer_spaniel
+1089	elephant_seal.n.01	5	2080415		elephant_seal	sea_elephant
+1090	talapoin.n.01	5	2485225		talapoin	Cercopithecus_talapoin
+1091	bettong.n.01	5	1880716		bettong
+1092	woolly_mammoth.n.01	5	2505063		Mammuthus_primigenius	northern_mammoth	woolly_mammoth
+1093	opossum.n.02	5	1874928		possum	opossum
+1094	wisent.n.01	5	2410900		aurochs	Bison_bonasus	wisent
+1095	alpaca.n.03	5	2438272		Lama_pacos	alpaca
+1096	pinche.n.01	5	2491474		pinche	Leontocebus_oedipus
+1097	hackney.n.02	5	2386224		hackney
+1098	lapin.n.02	5	2324514		lapin
+1099	affirmed.n.01	5	2384639		Affirmed
+1100	golden_mole.n.01	5	1890564		golden_mole
+1101	brown_lemming.n.01	5	2345078		brown_lemming	Lemmus_trimucronatus
+1102	seal.n.09	5	2076196		seal
+1103	steller_sea_lion.n.01	5	2079005		Eumetopias_jubatus	Steller_sea_lion	Steller's_sea_lion
+1104	hog_badger.n.01	5	2448885		sand_badger	Arctonyx_collaris	hog_badger	hog-nosed_badger
+1105	mapinguari.n.01	5	2459636		mapinguari
+1106	hominid.n.01	5	2471762		hominid
+1107	brabancon_griffon.n.01	5	2112706		Brabancon_griffon
+1108	pithecanthropus.n.01	5	2473554		genus_Pithecanthropus	Pithecanthropus_erectus	Pithecanthropus
+1109	atlantic_bottlenose_dolphin.n.01	5	2069974		Tursiops_truncatus	Atlantic_bottlenose_dolphin
+1110	domestic_goat.n.01	5	2417070		domestic_goat	Capra_hircus
+1111	homo_sapiens_sapiens.n.01	5	2475669		Homo_sapiens_sapiens	modern_man
+1112	european_wildcat.n.01	5	2125081		catamountain	European_wildcat	Felis_silvestris
+1113	aardvark.n.01	5	2082791		aardvark	ant_bear	Orycteropus_afer	anteater
+1114	american_black_bear.n.01	5	2133161		Ursus_americanus	black_bear	American_black_bear	Euarctos_americanus
+1115	indian_rhinoceros.n.01	5	2392434		Rhinoceros_unicornis	Indian_rhinoceros
+1116	bonnet_macaque.n.01	5	2487675		crown_monkey	bonnet_monkey	bonnet_macaque	Macaca_radiata	capped_macaque
+1117	cavy.n.01	5	2364520		cavy
+1118	rabbit-eared_bandicoot.n.01	5	1876667		rabbit-eared_bandicoot	bilby	Macrotis_lagotis	rabbit_bandicoot
+1119	asiatic_black_bear.n.01	5	2133704		Selenarctos_thibetanus	Asiatic_black_bear	black_bear	Ursus_thibetanus
+1120	abyssinian.n.01	5	2124313		Abyssinian	Abyssinian_cat
+1121	toothed_whale.n.01	5	2066707		toothed_whale
+1122	crowbait.n.01	5	2381119		crow-bait	crowbait
+1123	weimaraner.n.01	5	2092339		Weimaraner
+1124	liver_chestnut.n.01	5	2388832		liver_chestnut
+1125	cactus_mouse.n.01	5	2337171		cactus_mouse	Peromyscus_eremicus
+1126	silky_anteater.n.01	5	2460817		Cyclopes_didactylus	two-toed_anteater	silky_anteater
+1127	tigress.n.01	5	2129923		tigress
+1128	toy_manchester.n.01	5	2094931		toy_Manchester	toy_Manchester_terrier
+1129	mylodontid.n.01	5	2459190		mylodontid
+1130	mongoose.n.01	5	2137549		mongoose
+1131	insectivore.n.01	5	1889074		insectivore
+1132	samoyed.n.03	5	2111889		Samoyede	Samoyed
+1133	fallow_deer.n.01	5	2433318		fallow_deer	Dama_dama
+1134	morgan.n.06	5	2379329		Morgan
+1135	spearnose_bat.n.01	5	2142734		spearnose_bat
+1136	weasel.n.02	5	2441942		weasel
+1137	muishond.n.01	5	2443808		muishond
+1138	scottish_deerhound.n.01	5	2092002		deerhound	Scottish_deerhound
+1139	friesian.n.01	5	2407390		Holstein	Friesian	Holstein-Friesian
+1140	pine_vole.n.01	5	2340930		pine_vole	pine_mouse	Pitymys_pinetorum
+1141	eastern_chipmunk.n.01	5	2359915		eastern_chipmunk	hackee	ground_squirrel	Tamias_striatus	striped_squirrel
+1142	taguan.n.01	5	2362569		flying_cat	flying_marmot	taguan	Petaurista_petaurista
+1143	sled_dog.n.01	5	2109811		sledge_dog	sled_dog
+1144	coonhound.n.01	5	2088839		coonhound
+1145	mouflon.n.01	5	2415829		moufflon	mouflon	Ovis_musimon
+1146	capybara.n.01	5	2365480		capibara	capybara	Hydrochoerus_hydrochaeris
+1147	ibizan_hound.n.01	5	2091244		Ibizan_hound	Ibizan_Podenco
+1148	deer_mouse.n.01	5	2337001		Peromyscus_maniculatus	deer_mouse
+1149	ermine.n.02	5	2442172		shorttail_weasel	ermine	Mustela_erminea
+1150	belgian_hare.n.01	5	2328009		leporide	Belgian_hare
+1151	whippet.n.01	5	2091134		whippet
+1152	siamang.n.01	5	2483708		siamang	Symphalangus_syndactylus	Hylobates_syndactylus
+1153	mountain_gorilla.n.01	5	2481366		Gorilla_gorilla_beringei	mountain_gorilla
+1154	attack_dog.n.01	5	2104184		attack_dog
+1155	metatherian.n.01	5	1873982		metatherian
+1156	porker.n.01	5	2395931		porker
+1157	welsh_pony.n.01	5	2382750		Welsh_pony
+1158	courser.n.03	5	2087314		courser
+1159	wild_goat.n.01	5	2417534		wild_goat
+1160	cotswold.n.01	5	2413484		Cotswold
+1161	mexican_hairless.n.01	5	2113978		Mexican_hairless
+1162	hominoid.n.01	5	2471300		hominoid
+1163	queen.n.09	5	2369935		queen	queen_mole_rat
+1164	musteline_mammal.n.01	5	2441326		musteline_mammal	mustelid	musteline
+1165	bowhead.n.01	5	2064000		Greenland_whale	bowhead_whale	Balaena_mysticetus	bowhead
+1166	cardigan.n.02	5	2113186		Cardigan	Cardigan_Welsh_corgi
+1167	pronghorn.n.01	5	2429456		prongbuck	pronghorn_antelope	Antilocapra_americana	pronghorn	American_antelope
+1168	welsh_springer_spaniel.n.01	5	2102177		Welsh_springer_spaniel
+1169	homo.n.02	5	2472293		human_being	homo	human	man
+1170	mink.n.03	5	2442845		mink
+1171	mouse-eared_bat.n.01	5	2141611		mouse-eared_bat
+1172	sperm_whale.n.01	5	2067240		black_whale	cachalot	sperm_whale	Physeter_catodon
+1173	bulldog.n.01	5	2108672		bulldog	English_bulldog
+1174	wood_rat.n.01	5	2338901		wood_rat	wood-rat
+1175	buckskin.n.01	5	2381004		buckskin
+1176	appaloosa.n.01	5	2379743		Appaloosa
+1177	long-eared_bat.n.01	5	2148835		long-eared_bat
+1178	american_mastodon.n.01	5	2506248		Mammut_americanum	American_mastodont	American_mastodon
+1179	baboon.n.01	5	2486410		baboon
+1180	cape_buffalo.n.01	5	2409508		Synercus_caffer	Cape_buffalo
+1181	papillon.n.01	5	2086910		papillon

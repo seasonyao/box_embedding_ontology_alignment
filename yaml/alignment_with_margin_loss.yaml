@@ -1,0 +1,30 @@
+program: /mnt/nfs/work1/llcao/zonghaiyao/ontology_alignment/box_for_ontology_alignment/alignment_with_margin_loss.py
+method: bayes
+metric:
+  goal: maximize
+  name: align_evaluation_dev_align_0.5_metric_hard_accuracy_align_mean
+parameters:
+  dims:
+    distribution: int_uniform
+    max: 30
+    min: 1
+  lr:
+    distribution: log_uniform
+    max: -0.5
+    min: -7.6
+  rns_ratio:
+    distribution: int_uniform
+    max: 10
+    min: 1
+  box_type:
+    values: ['MinMaxSigmoidBoxes', 'SigmoidBoxes', 'DeltaBoxes', 'MinMaxBoxes']
+  neg_margin:
+    distribution: uniform
+    max: 0.5
+    min: 0.0
+  pos_margin:
+    distribution: uniform
+    max: 1.0
+    min: 0.5
+early_terminate:
+  max_iter: 10

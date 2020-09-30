@@ -1,0 +1,23 @@
+ground_truth.orig: 1182
+ground_truth.tc: 6542
+ground_truth.tr: 1182
+
+traindev.orig: 3319
+traindev.tc: 5164
+traindev.tr: 1517
+
+train.orig: 2691
+train.tc: 3441
+train.tr: 1958
+
+dev_pos: 2473
+test_pos: 3223
+dev_train_coverage: 750
+test_traindev_coverage: 1845
+
+dev_train_coverage_percent: 0.303275374039628
+test_train_coverage_percent: 0.4107973937325473
+test_traindev_coverage_percent: 0.5724480297859137
+train_dev_neg_contradictions: {1182, 169} directed simple Int64 graph
+train_test_neg_contradictions: {1182, 246} directed simple Int64 graph
+dev_test_neg_contradictions: {1182, 141} directed simple Int64 graph

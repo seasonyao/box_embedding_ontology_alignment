@@ -1,0 +1,12 @@
+name: boxmodel
+channels:
+  - pytorch
+dependencies:
+  - python=3.7
+  - pytorch
+  - cudatoolkit=10.0
+  - pandas
+  - scipy
+  - tqdm
+  - pip:
+      - scikit-optimize
