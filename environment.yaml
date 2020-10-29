@@ -1,0 +1,16 @@
+name: run_boxmodel
+channels:
+  - defaults
+dependencies:
+  - tqdm
+  - ipykernel
+  - pytorch
+  - cudatoolkit
+  - ipython
+  - ipywidgets
+  - python=3.7
+  - scikit-learn
+  - pandas
+  - pytest
+  - matplotlib
+prefix: D:\code\anaconda\envs\run_boxmodel
